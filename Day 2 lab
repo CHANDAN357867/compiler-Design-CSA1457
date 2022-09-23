@@ -60,4 +60,3 @@ printf("\n Not a operator");
 }
 Output:
  Enter any operator:*
-Footer
